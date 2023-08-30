@@ -1,0 +1,24 @@
+1. Part 1: Creating LeNet 
+Score less than 30 means missing keys or wrong shape existed.
+
+Score for Part 1 is 30
+
+Your output is:
+{1: [2, 6, 14, 14], 2: [2, 16, 5, 5], 3: [2, 400], 4: [2, 256], 5: [2, 128], 6: [2, 100]}
+
+2. Part 2: Calculating the model parameters 
+Score for Part 2 is 20
+
+Your output is:
+0.151324
+The desired output is in 0.15 to 0.16
+
+3. Part 3: Training under different configurations 
+Score for Part 3 is 50
+
+Your output 6 is:
+13.71
+The desired output 6 (bigger or less than this one within 1% range is acceptable) is:
+[13.85]
+
+Total: 100/100
